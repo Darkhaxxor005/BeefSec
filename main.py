@@ -129,6 +129,7 @@ def banner():
 ██████╔╝███████╗███████╗██║     ███████║███████╗╚██████╗
 ╚═════╝ ╚══════╝╚══════╝╚═╝     ╚══════╝╚══════╝ ╚═════╝""")
     print("                           \033[37mA automated browser exploitation framework :)")
+    print("                           \033[37mPowered By youhacker55\n")
     print("                           \033[37mCoded by R00tDev1l\n")
 banner()
 
